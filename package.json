@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a README file from a user's input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enma1009/readme-generator.git"
+  },
+  "author": "Enid Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enma1009/readme-generator/issues"
+  },
+  "homepage": "https://github.com/enma1009/readme-generator#readme",
+  "dependencies": {
+    "github-api": "^3.3.0",
+    "inquirer": "^7.0.5"
+  }
+}

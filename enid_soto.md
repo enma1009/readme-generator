@@ -1,4 +1,4 @@
-# Readme gen
+# Readme Generator
 
 <img src="https://avatars3.githubusercontent.com/u/29459503?v=4" alt="avatar" style="border-radius: 36px" width="60" />
 
@@ -6,7 +6,7 @@ Author: Enid Soto
 
 ## Description
 
-hsjkoopp
+This project is to implement skills learned in the UM Bootcamp class of 2019-2020.
 
 ## Table of Contents 
 
@@ -28,7 +28,7 @@ npm install
 
 ## Usage
 
-aaaaaaaa
+This is a command-line app that generates a README file from the user input in the terminal.
 
 ## License
 
